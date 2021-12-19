@@ -1,0 +1,4 @@
+### Primeiro projeto em HTML utilizando CSS para estilização
+
+Este é meu primeiro projeto em HTML e CSS criando um site sobre meu jogo favorito testando funções variadas.
+
